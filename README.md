@@ -1,3 +1,3 @@
 # sample
 
-A file explianing active learning is available.
+A file explaining active learning is available.
